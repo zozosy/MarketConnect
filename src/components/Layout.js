@@ -6,7 +6,7 @@ import SearchBar from './Searchbar';
 import ProductList from './Productlist';
 import Devices from './Devices'; 
 import Footer from './Footer'; 
-import logo from '../../public/assets/logo.png'; 
+import logo from '../public/assets/logo.png'; 
 
 function Layout() {
   return (
