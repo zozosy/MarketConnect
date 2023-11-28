@@ -6,8 +6,6 @@ import logo from '../../public/assets/logo.png';
 
 function Header() {
   return (
-    <section className="layout">
-    
     <header className="header">
     <div className="header-logo">
      <img src={logo} alt="Logo" className="logo" />
@@ -27,7 +25,7 @@ function Header() {
       <img src="/assets/shop.jpg" alt="Shop Icon" className="shop-icon" />
     </div>
     </header>
-    </section>
+   
   );
 }
 

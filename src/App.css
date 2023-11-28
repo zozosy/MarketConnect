@@ -251,3 +251,20 @@ footer img {
 }
 
 
+.app {
+  text-align: center;
+}
+
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.grid-item {
+  width: 80px; 
+  height: 80px;
+  margin: 10px;
+}
+
