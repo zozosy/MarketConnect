@@ -7,7 +7,7 @@ import ProductList from './Productlist';
 import Devices from './Devices';
 import Browse from './Browse'; 
 import Footer from './Footer'; 
-
+import logo from '../public/assets/logo.png'; 
 
 function Layout() {
   return (
